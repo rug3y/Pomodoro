@@ -1,0 +1,22 @@
+.App {
+    height:  100vh;
+    padding: 0;
+    margin:  0;
+}
+
+.title {
+    margin:      0;
+    padding-top: 50px;
+    color:       white;
+    font-size:   88px;
+}
+
+.timer {
+    display:       block;
+    width:         60%;
+    height:        500px;
+    margin:        0 auto;
+    margin-top:    30px;
+    background:    white;
+    border-radius: 20px;
+}
